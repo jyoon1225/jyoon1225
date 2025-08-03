@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jyoon1225 (Jin).
+- 👋 Hi, I’m Jin Yoon.
 - 👀 I’m a health statistician. 
-- 💞️ I’m looking to collaborate on predictive modelling with health data
+- 💞️ I’m looking to collaborate on predictive modelling (statistical modelling and generative AI (LLMs)) with health data
 - 📫 How to reach me jin.yoon@csiro.au
 
 <!---
